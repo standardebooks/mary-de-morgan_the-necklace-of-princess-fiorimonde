@@ -95,11 +95,11 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/the wanderings of arasmon.xhtml" id="the wanderings of arasmon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bread-of-discontent.xhtml" id="the-bread-of-discontent.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-heart-of-princess-joan.xhtml" id="the-heart-of-princess-joan.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-necklace-of-princess-fiorimonde.xhtml" id="the-necklace-of-princess-fiorimonde.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-pedlars-pack.xhtml" id="the-pedlars-pack.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wanderings-of-arasmon.xhtml" id="the-wanderings-of-arasmon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wise-princess.xhtml" id="the-wise-princess.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -110,7 +110,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="the-necklace-of-princess-fiorimonde.xhtml"/>
-		<itemref idref="the wanderings of arasmon.xhtml"/>
+		<itemref idref="the-wanderings-of-arasmon.xhtml"/>
 		<itemref idref="the-heart-of-princess-joan.xhtml"/>
 		<itemref idref="the-pedlars-pack.xhtml"/>
 		<itemref idref="the-bread-of-discontent.xhtml"/>
