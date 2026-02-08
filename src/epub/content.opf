@@ -28,36 +28,43 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Necklace of Princess Fiorimonde</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Necklace of Princess Fiorimonde, The</meta>
+		<dc:title id="subtitle">And Other Stories</dc:title>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<meta property="file-as" refines="#subtitle">And Other Stories</meta>
+		<dc:title id="fulltitle">The Necklace of Princess Fiorimonde, And Other Stories</dc:title>
+		<meta property="file-as" refines="#fulltitle">Necklace of Princess Fiorimonde, And Other Stories, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Fairy tales</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<dc:subject id="subject-2">Children's stories</dc:subject>
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/38976</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/necklaceofprince00demoiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Necklace_of_Princess_Fiorimonde</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-de-morgan_the-necklace-of-princess-fiorimonde</meta>
 		<dc:creator id="author">Mary De Morgan</dc:creator>
 		<meta property="file-as" refines="#author">De Morgan, Mary</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_De_Morgan</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no97052234</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John William Waterhouse</dc:contributor>
+		<meta property="file-as" refines="#artist">Waterhouse, John William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_William_Waterhouse</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79044158</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Edwards</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">David, Edwards</meta>
@@ -69,9 +76,9 @@
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">Hendrik de Wetterle Bonow Kaiber</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
