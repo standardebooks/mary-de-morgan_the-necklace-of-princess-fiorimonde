@@ -94,6 +94,8 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/the-bread-of-discontent.xhtml" id="the-bread-of-discontent.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-heart-of-princess-joan.xhtml" id="the-heart-of-princess-joan.xhtml" media-type="application/xhtml+xml"/>
@@ -109,6 +111,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="the-necklace-of-princess-fiorimonde.xhtml"/>
 		<itemref idref="the-wanderings-of-arasmon.xhtml"/>
 		<itemref idref="the-heart-of-princess-joan.xhtml"/>
@@ -116,7 +120,7 @@
 		<itemref idref="the-bread-of-discontent.xhtml"/>
 		<itemref idref="the-three-clever-kings.xhtml"/>
 		<itemref idref="the-wise-princess.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 </package>
