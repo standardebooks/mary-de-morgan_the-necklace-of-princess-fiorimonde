@@ -55,7 +55,6 @@
 		<dc:source>https://archive.org/details/necklaceofprince00demoiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Necklace_of_Princess_Fiorimonde</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-de-morgan_the-necklace-of-princess-fiorimonde</meta>
 		<dc:creator id="author">Mary De Morgan</dc:creator>
 		<meta property="file-as" refines="#author">De Morgan, Mary</meta>
