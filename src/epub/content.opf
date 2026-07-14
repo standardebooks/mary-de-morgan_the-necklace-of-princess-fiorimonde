@@ -36,7 +36,7 @@
 		<meta property="file-as" refines="#subtitle">And Other Stories</meta>
 		<dc:title id="fulltitle">The Necklace of Princess Fiorimonde, And Other Stories</dc:title>
 		<meta property="file-as" refines="#fulltitle">Necklace of Princess Fiorimonde, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fairy tales</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
