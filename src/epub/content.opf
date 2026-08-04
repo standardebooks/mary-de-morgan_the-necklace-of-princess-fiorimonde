@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>The second collection of fairy tales by Mary De Morgan.</dc:abstract>
+		<meta property="schema:abstract">The second collection of fairy tales by Mary De Morgan.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Necklase of Princess Fiorimonde&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/mary-de-morgan"&gt;Mary De Morgan’s&lt;/a&gt; second collection of fairy tales. Like her &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mary-de-morgan/on-a-pincushion"&gt;On a Pincushion&lt;/a&gt;&lt;/i&gt;, the stories in this collection draw inspiration from fairy tales both folkloric and literary, like the ones by &lt;a href="https://standardebooks.org/ebooks/hans-christian-andersen"&gt;Hans Christian Andersen&lt;/a&gt;. The fairy tales address a variety of themes, including greed in “The Bread of Discontent” and love and loyalty in “The Wanderings of Arasmon.”&lt;/p&gt;
 		</dc:description>
